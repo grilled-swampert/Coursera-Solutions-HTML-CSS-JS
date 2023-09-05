@@ -3,3 +3,4 @@ question for the same can be found here: https://github.com/jhu-ep-coursera/full
 (you'll have to copy and paste the URL)
 
 Note: Bootstrap and jQuery files were downloaded from the internet.
+On downloading those files, please add them into respective folders 'css' and 'js' according to the code link import statements.
